@@ -8,3 +8,5 @@ Regession_modeling_profits_over_time.ipynb - is where you can find the Monter Ca
 
 
 getting_extra_stock_price.ipynb - API connection code for yfiance. 
+
+companystockdata.ipynb- EDA analysis of different niches from  purchases data. 
