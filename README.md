@@ -24,7 +24,9 @@ This project analyzes the stock trading activities of members of the United Stat
    - Analyzed trading performance by political party (Democrat vs Republican)
    - Analyzed performance by chamber (House vs Senate)
    - Created bar charts to visualize these comparisons
+     
 ![alt text](image.png)
+
 5. **Individual Congressman Analysis**
    - Identified top-performing and bottom-performing members of Congress based on trading performance
    - Created a line plot showing the profit/loss progression for these members over different terms
