@@ -24,24 +24,19 @@ This project analyzes the stock trading activities of members of the United Stat
    - Analyzed trading performance by political party (Democrat vs Republican)
    - Analyzed performance by chamber (House vs Senate)
    - Created bar charts to visualize these comparisons
-<<<<<<< HEAD
+
 
 ![alt text](image-4.png)
-=======
-     
-![alt text](image.png)
->>>>>>> 24f501aa2404bd974358f17910f03f86c52bdb86
+
 
 5. **Individual Congressman Analysis**
    - Identified top-performing and bottom-performing members of Congress based on trading performance
    - Created a line plot showing the profit/loss progression for these members over different terms
-<<<<<<< HEAD
+
 
 ![alt text](image-1.png)
 
-=======
-![alt text](image-1.png)
->>>>>>> 24f501aa2404bd974358f17910f03f86c52bdb86
+
 6. **Detailed Analysis of Top Performers**
    - Selected four top-performing congressmen for more detailed analysis
    - For each of these congressmen:
@@ -58,13 +53,13 @@ This project analyzes the stock trading activities of members of the United Stat
 
 ![alt text](image-3.png)
 
-=======
-![alt text](image-2.png)
+
 7. **Maximum Drawdown Analysis**
    - Created a function to calculate the maximum drawdown for each trade
    - Visualized these maximum drawdowns in a 2x2 grid of bar plots, one for each top-performing congressman
+   - 
 ![alt text](image-3.png)
->>>>>>> 24f501aa2404bd974358f17910f03f86c52bdb86
+
 ## Key Findings
 
 1. Long-term holdings generally performed better than short-term or mid-term holdings.
@@ -130,5 +125,6 @@ Overall, this notebook provides a basic exploratory data analysis of congression
 
 
 ## Here is the diagram illustrating the Stock Data Extraction Process:
+
 ![alt text](image.png)
 
