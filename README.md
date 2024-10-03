@@ -47,12 +47,6 @@ This project analyzes the stock trading activities of members of the United Stat
 
 ![alt text](image-2.png)
 
-7. **Maximum Drawdown Analysis**
-   - Created a function to calculate the maximum drawdown for each trade
-   - Visualized these maximum drawdowns in a 2x2 grid of bar plots, one for each top-performing congressman
-
-![alt text](image-3.png)
-
 
 7. **Maximum Drawdown Analysis**
    - Created a function to calculate the maximum drawdown for each trade
