@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="942e7051-d48b-4da5-953f-4c659d477095" name="Changes" comment="update to the existing project. Project is now finished. External api connection code has been separated and non-relavant insights have been moved.">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_overview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_overview.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/companystockdata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/companystockdata.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/getting_extra_stock_price.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/getting_extra_stock_price.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yoyo" beforeDir="false" />
     </list>
@@ -41,12 +40,12 @@
     &quot;assignee&quot;: &quot;sdeanda99&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sdeanda99/Congresstrades.git",
-    "accountId": "7d504185-5fb2-4d3a-906d-3ec55a715616"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sdeanda99/Congresstrades.git&quot;,
+    &quot;accountId&quot;: &quot;7d504185-5fb2-4d3a-906d-3ec55a715616&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -97,7 +96,9 @@
       <workItem from="1721770568739" duration="8093000" />
       <workItem from="1721943308577" duration="159000" />
       <workItem from="1722212934779" duration="36421000" />
-      <workItem from="1722571213621" duration="2622000" />
+      <workItem from="1722571213621" duration="4343000" />
+      <workItem from="1723561468630" duration="8370000" />
+      <workItem from="1723668362007" duration="9483000" />
     </task>
     <task id="LOCAL-00001" summary="update to the existing project. Project is now finished. External api connection code has been separated and non-relavant insights have been moved.">
       <option name="closed" value="true" />
@@ -139,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722570213406</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update to the existing project. Project is now finished. External api connection code has been separated and non-relavant insights have been moved.">
+      <option name="closed" value="true" />
+      <created>1722631285742</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722631285742</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +160,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
